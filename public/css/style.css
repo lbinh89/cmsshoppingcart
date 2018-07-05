@@ -1,0 +1,53 @@
+img.pimage{
+    width: 150px;
+}
+
+a.pa{
+    display: inline-block;
+    height: 160px;
+}
+
+.row.products .p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row.products .p h3{
+    text-transform: capitalize;
+}
+
+img.spi{
+    width: 100%;
+}
+
+.row.pdetail > h1{
+    text-transform: capitalize;
+}
+
+.gallery{
+    padding: 0;
+}
+
+.gallery li:first-child{
+    margin-left: 0;
+}
+
+.gallery li{
+    display: inline-block;
+    margin: 20px;
+    list-style-type: none;
+}
+
+img.cpi{
+    width: 100px;
+}
+
+table.middle td{
+    vertical-align: middle !important;
+}
+
+.alert-error {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
